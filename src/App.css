@@ -1,0 +1,31 @@
+/* App.js Styles */
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-container {
+  text-align: center;
+}
+
+.app-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.content-container {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content-text {
+  font-size: 18px;
+  color: #444;
+  margin-bottom: 20px;
+}
